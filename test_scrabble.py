@@ -1,9 +1,3 @@
-'''
-    CS5001
-    Fall 2019
-    Test suite -- testing two scrabble functions
-'''
-
 from scrabble_points import bag_of_letters
 from scrabble_points import get_word_value
 
